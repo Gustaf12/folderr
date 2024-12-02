@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ADMIN_WHATSAPP_NUMBER="79105052657"
+ADMIN_WHATSAPP_NUMBER="62895392249321"
 
 WHATSAPP_FILE="/var/whatsapp_number.txt"
 LICENSE_FILE="/var/license.txt"
